@@ -1,1 +1,3 @@
-# InternetOfThings_Prototype_JustInMind 
+# IOT BASED AUTOMATIC ELECTRICITY BILL & MAINTENANCE ALARM GENERATING SYSTEM
+
+- Software Requirement Engineering (Project)
